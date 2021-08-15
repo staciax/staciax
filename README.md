@@ -6,7 +6,7 @@
 ## <img src="https://cdn.discordapp.com/emojis/747368061194993738.gif" width="25px"> About Me
 
 <img src="https://cdn.discordapp.com/attachments/835912612834967592/861261996028198932/2932-dash.png" width="12px"> I'm a young developer. <br />
-<img src="https://cdn.discordapp.com/attachments/835912612834967592/861262004639105064/4594-dash.png" width="12px"> I’m currently learning **Discord Bot** <br />
+<img src="https://cdn.discordapp.com/attachments/835912612834967592/861262004639105064/4594-dash.png" width="12px"> I’m currently learning **Python** <br />
 <img src="https://cdn.discordapp.com/attachments/835912612834967592/861261971709755432/8790-dash.png" width="12px"> My projects available coming soon <br />
 <img src="https://cdn.discordapp.com/attachments/835912612834967592/861261964037586969/9621-dash.png" width="12px">  How to contact me  **ixximm.11820@gmail.com** <br />
 <img src="https://cdn.discordapp.com/attachments/835912612834967592/861261964037586969/9621-dash.png" width="12px">  My discord  **ꜱᴛᴀᴄɪᴀ.#0001** <br />
