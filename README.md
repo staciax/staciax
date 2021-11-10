@@ -30,4 +30,4 @@
 </a>
 <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Stacia's GitHub stats](https://github-readme-stats.vercel.app/api?username=staciax&show_icons=true&count_private=true&title_color=6633cc&icon_color=f7df1e&text_color=7159c1)
+![Stacia's GitHub stats](https://github-readme-stats.vercel.app/api?username=staciax&show_icons=true&count_private=true&title_color=6633cc&icon_color=f7df1e&text_color=7159c1&theme=tokyonight)
