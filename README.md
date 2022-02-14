@@ -43,10 +43,17 @@
 
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
-
+<!-- 
   <p  align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
-                  
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
+  <a href="https://github.com/staciax">
+    <img src="https://komarev.com/ghpvc/?username=staciax">
+</a>
+<a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
   </p>
 </p>
 
