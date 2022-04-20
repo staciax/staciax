@@ -10,9 +10,9 @@
   💜 Interests: music, video games, programing language<br>
   🎵 I love to hear japanese music.<br>
   ⚡ Fun fact: i like to play video games But I play a very noob xD
-  
-  Image by [SAU](https://twitter.com/bysau_/status/1197884610358763521) | 
-  Inspired by [instance01](https://github.com/instance01/instance01)<br><br>
+
+  Image by [darumakarei](https://twitter.com/darumakarei/status/1498288587028135937) | 
+  Inspired by [instance01](https://github.com/instance01/instance01)<br>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
   
   ## Tech Stack
