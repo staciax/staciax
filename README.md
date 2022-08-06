@@ -44,6 +44,7 @@
 
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
+  <br>
   <a href="https://github.com/staciax">
     <img src="https://komarev.com/ghpvc/?username=staciax">
 </a>
