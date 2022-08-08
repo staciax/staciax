@@ -41,13 +41,18 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yioz5owf1lq36k6pn82ie126p)
 
 ## Support
-
+  
+  <!-- ko-fi badge -->
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
   <br><br>
+    
+  <!-- profile views badge -->
   <a href="https://github.com/staciax">
     <img src="https://komarev.com/ghpvc/?username=staciax">
 </a>
+    
+  <!-- follower badge -->
 <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
   
