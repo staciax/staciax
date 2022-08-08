@@ -51,7 +51,6 @@
   <a href="https://github.com/staciax">
     <img src="https://komarev.com/ghpvc/?username=staciax">
 </a>
-    
   <!-- follower badge -->
 <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
