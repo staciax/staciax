@@ -14,6 +14,7 @@
   Image by [darumakarei](https://twitter.com/darumakarei/status/1498288587028135937) |
   Inspired by [instance01](https://github.com/instance01/instance01)<br>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
+  <br>
 
 ## Tech Stack
 
