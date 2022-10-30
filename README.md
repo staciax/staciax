@@ -1,20 +1,19 @@
 <p float="left">
-  <img src='pic.jpg' width='250' align="left">
-  <p float="left">
+<img src='pic.jpg' width='250' align="left">
+<p float="left">
 
-  👋 Hi! I'm STACIA~ OwO <br>
+  👋 Hi! I'm STACIA~ OwO \
   ❤ Nice to meet you
 
-  🌱 I’m currently learning Python, Discord bot and other<br>
-  💬 ask me about anything, i am happy to help<br>
-  💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear japanese music.<br>
-  ⚡ Fun fact: i like to play video games But I play a very noob xD
+  🌱 I’m currently learning Python, Discord bot and Mobile app development \
+  💬 Ask me about anything, even if it's not related to programming \
+  💜 Interests: music, video games, watching anime, etc \
+  🎵 I love to hear japanese music.\
+  ⚡ Fun fact: i like to play video games but i'm not good at it xD
 
   Image by [darumakarei](https://twitter.com/darumakarei/status/1498288587028135937) |
-  Inspired by [instance01](https://github.com/instance01/instance01)<br>
+  Inspired by [instance01](https://github.com/instance01/instance01) \
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
-  <br>
 
 <!-- spotify badge: https://github.com/kittinan/spotify-github-profile -->
 
@@ -52,7 +51,7 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yioz5owf1lq36k6pn82ie126p)
 
 ## Support
-  
+
   <!-- ko-fi badge -->
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
