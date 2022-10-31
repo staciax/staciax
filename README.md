@@ -5,8 +5,8 @@
   👋 Hi! I'm STACIA~ OwO \
   ❤ Nice to meet you
 
-  🌱 I’m currently learning Python, Discord bot, Mobile App \
-  💬 Ask me about anything, even if it's not related to programming \
+  🌱 I’m currently learning: Python, Discord bot, Mobile App \
+  💬 Ask me about anything: even if it's not related to programming \
   💜 Interests: music, video games, watching anime, etc \
   🎵 I love to hear japanese music.\
   ⚡ Fun fact: i like to play video games but i'm not good at it xD
