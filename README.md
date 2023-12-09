@@ -21,7 +21,7 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-<p align=center>
+<p align=left>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,flutter,mysql,postgresql,fastapi,django,docker,githubactions,nginx,cloudflare,gcp" />
   </a>
