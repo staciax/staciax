@@ -1,4 +1,4 @@
-# STACiA
+# [STACiA](https://twitter.com/stacia__x)
 
 I'm a computer science student.
 
