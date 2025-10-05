@@ -10,6 +10,7 @@ I mostly keep to myself—when in doubt, I code or listen to podcasts and music.
 I build small utility libraries for my projects and I’m currently making something I’m excited about.
 
 After long sprints, I unwind with a good anime—or a quick game.
+
 <br>
 <br>
 <br>
