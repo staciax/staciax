@@ -26,4 +26,4 @@ Picture by [SAU](https://twitter.com/bysau_/status/1390297979114950661)
 - Twitter: [@stacia__x](https://twitter.com/stacia__x)
 - Discord: [stacia.](https://discord.com/users/240059262297047041)
 
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
+<!-- <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> -->
