@@ -10,6 +10,8 @@ I mostly keep to myself—when in doubt, I code or listen to podcasts and music.
 
 I build small utility libraries for my own use, and I’m currently making something I’m excited about.
 
+I dream of creating a meaningful OSS project someday. I'm not very confident in my abilities just yet, so for now, I enjoy working on these small OSS projects as a way to learn and grow at my own pace.
+
 After long sprints, I unwind with a good anime—or ~~a quick game~~ Valorant.
 
 <br clear="left"/>
