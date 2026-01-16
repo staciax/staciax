@@ -1,31 +1,34 @@
-# [STACiA](https://twitter.com/stacia__x)
+# STACiA
+*Just building small things and learning along the way.*
 
-<p float="left">
-<img src='assets/new_pic.jpeg' width='250' align="left">
-    <p float="left">
-I'm STACiA—an introverted computer science student.
+I'm STACiA—an ~~introverted~~ computer science student from Bangkok, Thailand.
 
-I mostly keep to myself—when in doubt, I code or listen to podcasts and music.
+I usually keep to myself—when in doubt, I reset by coding or listening to podcasts and music, often spending my time building small utility libraries for personal use, and working on things I'm genuinely excited about.
 
-I build small utility libraries for my projects and I’m currently making something I’m excited about.
+<!-- for myself, maybe someday -->
+<!-- Someday, the goal is to create a meaningful open-source project, but confidence is still a work in progress—so for now, small OSS projects are how I learn and grow at my own pace. -->
 
-After long sprints, I unwind with a good anime—or a quick game.
+After long sprints, unwinding usually means a good anime—or  ~~a quick game~~ Valorant.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Glad you stopped by.
 
-Picture by [SAU](https://twitter.com/bysau_/status/1390297979114950661)
-<!-- Inspired by [instance01](https://github.com/instance01/instance01) -->
+### What I Usually Use
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,swift,pytest,bun,fastapi,django,elysia,docker,postgresql,react,nextjs&theme=dark"
+      height="36" 
+      alt="Skills"
+    />
+  </a>
+</p> 
 
-## Contact me
-- Email: [stacia.dev@gmail.com](mailto:stacia.dev@gmail.com)
-- Twitter: [@stacia__x](https://twitter.com/stacia__x)
-- Discord: [stacia.](https://discord.com/users/240059262297047041)
+## Stuff I've Made
 
-<!-- <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> -->
+- [lattebot](https://github.com/staciax/lattebot): A cute little Discord bot that grew alongside my coding skills.
+- [valorant](https://github.com/staciax/valorant): An API wrapper for Valorant-API.com written in Python.
+- [elysia-background](https://github.com/staciax/elysia-background): A background task processing plugin for Elysia.js
+- [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
+- [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
+
+<!-- ## Random Things I Made -->
