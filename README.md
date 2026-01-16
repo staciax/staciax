@@ -3,13 +3,14 @@
 
 I'm STACiA—an ~~introverted~~ computer science student from Bangkok, Thailand.
 
-Usually keeping to myself—when in doubt, coding or listening to podcasts and music helps me reset.
+I usually keep to myself—when in doubt, I reset by coding or listening to podcasts and music, often spending my time building small utility libraries for personal use, and working on things I'm genuinely excited about.
 
-These days, a lot of my time goes into building small utility libraries for personal use, and I'm currently working on something I'm genuinely excited about.
-
-Someday, the goal is to create a meaningful open-source project, but confidence is still a work in progress—so for now, small OSS projects are how I learn and grow at my own pace.
+<!-- for myself, maybe someday -->
+<!-- Someday, the goal is to create a meaningful open-source project, but confidence is still a work in progress—so for now, small OSS projects are how I learn and grow at my own pace. -->
 
 After long sprints, unwinding usually means a good anime—or  ~~a quick game~~ Valorant.
+
+Glad you stopped by.
 
 ### What I Usually Use
 <p align="left">
