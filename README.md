@@ -16,8 +16,9 @@ Glad you stopped by.
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,swift,pytest,bun,fastapi,django,elysia,react,nextjs,docker,postgresql&theme=dark"
-      height="35"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,swift,pytest,bun,fastapi,django,elysia,docker,postgresql,react,nextjs&theme=dark"
+      height="36" 
+      alt="Skills"
     />
   </a>
 </p> 
