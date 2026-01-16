@@ -1,28 +1,32 @@
-# [STACiA](https://twitter.com/stacia__x)
+# STACiA
+*Just building small things and learning along the way.*
 
-<p float="left">
-    <img src='assets/new_pic.jpeg' width='250' align="left">
-<p float="left">
+I'm STACiA—an ~~introverted~~ computer science student from Bangkok, Thailand.
 
-I'm STACiA—an introverted computer science student.
+Usually keeping to myself—when in doubt, coding or listening to podcasts and music helps me reset.
 
-I mostly keep to myself—when in doubt, I code or listen to podcasts and music.
+These days, a lot of my time goes into building small utility libraries for personal use, and I'm currently working on something I'm genuinely excited about.
 
-I build small utility libraries for my own use, and I’m currently making something I’m excited about.
+Someday, the goal is to create a meaningful open-source project, but confidence is still a work in progress—so for now, small OSS projects are how I learn and grow at my own pace.
 
-I dream of creating a meaningful OSS project someday. I'm not very confident in my abilities just yet, so for now, I enjoy working on these small OSS projects as a way to learn and grow at my own pace.
+After long sprints, unwinding usually means a good anime—or  ~~a quick game~~ Valorant.
 
-After long sprints, I unwind with a good anime—or ~~a quick game~~ Valorant.
+### What I Usually Use
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,swift,pytest,bun,fastapi,django,elysia,react,nextjs,docker,postgresql"
+      height="35"
+    />
+  </a>
+</p> 
 
-<br clear="left"/>
-<br>
+## Stuff I've Made
 
-Picture by [SAU](https://twitter.com/bysau_/status/1390297979114950661)
-<!-- Inspired by [instance01](https://github.com/instance01/instance01) -->
+- [lattebot](https://github.com/staciax/lattebot): A cute little Discord bot that grew alongside my coding skills.
+- [valorant](https://github.com/staciax/valorant): An API wrapper for Valorant-API.com written in Python.
+- [elysia-background](https://github.com/staciax/elysia-background): A background task processing plugin for Elysia.js
+- [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
+- [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
 
-## Contact me
-- Email: [stacia.dev@gmail.com](mailto:stacia.dev@gmail.com)
-- Twitter: [@stacia__x](https://twitter.com/stacia__x)
-- Discord: [stacia.](https://discord.com/users/240059262297047041)
-
-<!-- <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> -->
+<!-- ## Random Things I Made -->
