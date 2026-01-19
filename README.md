@@ -31,4 +31,7 @@ Glad you stopped by.
 - [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
 - [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
 
-<!-- ## Random Things I Made -->
+## From My Studies
+- [Design Patterns](https://github.com/staciax/cs-design-patterns): Collected examples and small projects from learning design patterns.
+- [Object-Oriented Programming](https://github.com/staciax/cs-object-oriented-programming): Examples and exercises from learning object-oriented programming concepts.
+- [Data Science](https://github.com/staciax/cs-data-science): Exercises and explorations from learning data science fundamentals.
