@@ -48,7 +48,7 @@ Glad you stopped by.
 - [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to [Django](https://github.com/django/django) projects.
 - [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a [custom-built routing system](https://github.com/staciax/aquarius-project/blob/master/docs/GUIDE.md) inspired by [Next.js App Router](https://nextjs.org/docs/app).
 - [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning [FastAPI](https://github.com/fastapi/fastapi) and [SQLModel](https://github.com/fastapi/sqlmodel).
-- [stellar-api](https://github.com/staciax/stellar-api): An evolved API project building on earlier work, with a more structured approach.
+- [stellar-api](https://github.com/staciax/stellar-api): An evolved [FastAPI](https://github.com/fastapi/fastapi) project focused on backend structure, with some frontend experimentation.
 - [riko](https://github.com/Arismonx/riko): An experimental AI chatbot built with [ElysiaJS](https://elysiajs.com), developed collaboratively while exploring persona-based prompts. (with [Arismonx](https://github.com/Arismonx))
 - [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant's in-game API.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
