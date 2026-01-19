@@ -46,4 +46,7 @@ Glad you stopped by.
 - [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the Marblex API used in Ni no Kuni: Cross Worlds.
 - [discord-linked-roles](https://github.com/staciax/discord-linked-roles): A basic wrapper for the Discord Linked Roles OAuth2 API.
 - [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to Django projects.
+- [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning FastAPI and ORM basics.
+- [stellar-api](https://github.com/staciax/stellar-api): An evolved API project building on earlier work, with a more structured approach.
+- [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant’s in-game API.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
