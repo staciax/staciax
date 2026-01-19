@@ -37,7 +37,7 @@ Glad you stopped by.
 - [Data Science](https://github.com/staciax/cs-data-science): Exercises and explorations from learning data science fundamentals.
 
 ## Random Things I Made
-- [lattebot-v1](https://github.com/staciax/lattebot-v1): The very first version of lattebot, built with [discord.py](https://github.com/Rapptz/discord.py) as one of my earliest programming projects.
+- [lattebot-v1](https://github.com/staciax/lattebot-v1): The very first version of [lattebot](https://github.com/staciax/lattebot), built with [discord.py](https://github.com/Rapptz/discord.py) as one of my earliest programming projects.
 - [lattebot-v2a](https://github.com/staciax/lattebot-v2a): An early rewrite of lattebot, experimenting with better structure and cleaner command handling.
 - [lattebot-v2](https://github.com/staciax/lattebot-v2): A more refined iteration of lattebot, focusing on a more organized codebase.
 - [lattebot-v2e](https://github.com/staciax/lattebot-v2e): A transitional stage of the v2 series during the [discord.py discontinuation](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1), moving to [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py).
