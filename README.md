@@ -29,6 +29,7 @@ Glad you stopped by.
 - [elysia-background](https://github.com/staciax/elysia-background): A background task processing plugin for Elysia.js
 - [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
 - [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
+- [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring ElysiaJS, with some experimentation on the frontend.
 
 ## From My Studies
 - [Design Patterns](https://github.com/staciax/cs-design-patterns): Collected examples and small projects from learning design patterns.
