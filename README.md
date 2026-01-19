@@ -27,7 +27,7 @@ Glad you stopped by.
 - [lattebot](https://github.com/staciax/lattebot): A cute little Discord bot that grew alongside my coding skills.
 - [valorant](https://github.com/staciax/valorant): An API wrapper for [Valorant-API.com](https://valorant-api.com) written in Python.
 - [elysia-background](https://github.com/staciax/elysia-background): A background task processing plugin for [ElysiaJS](https://elysiajs.com).
-- [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
+- [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A [Visual Studio Code](https://code.visualstudio.com) extension that protects sensitive files.
 - [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
 
 ## From My Studies
