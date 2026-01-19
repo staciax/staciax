@@ -43,6 +43,7 @@ Glad you stopped by.
 - [lattebot.p](https://github.com/staciax/lattebot.p): A complete rewrite of lattebot, rebuilt from the ground up during the most motivated phase of the project.
 - [lunaria](https://github.com/staciax/lunaria): A prototype project used to experiment with structure and ideas ahead of rewriting [lattebot.p](https://github.com/staciax/lattebot.p).
 - [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the [Marblex](https://www.marblex.io) API used in [Ni no Kuni: Cross Worlds](https://ninokuni.netmarble.com). (unofficial, for learning purposes)
+- [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant's in-game API.
 - [discord-linked-roles](https://github.com/staciax/discord-linked-roles): A basic wrapper for the [Discord Linked Roles](https://support.discord.com/hc/en-us/articles/10388356626711-Connections-Linked-Roles-Admins) OAuth2 API.
 - [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to [Django](https://github.com/django/django) projects.
 - [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a [custom-built routing system](https://github.com/staciax/aquarius-project/blob/master/docs/GUIDE.md) inspired by [Next.js App Router](https://nextjs.org/docs/app).
@@ -50,5 +51,4 @@ Glad you stopped by.
 - [stellar-api](https://github.com/staciax/stellar-api): An evolved [FastAPI](https://github.com/fastapi/fastapi) project focused on backend structure, with some frontend experimentation.
 - [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some experimentation on the frontend.
 - [riko](https://github.com/Arismonx/riko): An experimental AI chatbot built with [ElysiaJS](https://elysiajs.com), developed collaboratively while exploring persona-based prompts. (with [Arismonx](https://github.com/Arismonx))
-- [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant's in-game API.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
