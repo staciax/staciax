@@ -45,8 +45,9 @@ Glad you stopped by.
 - [lunaria](https://github.com/staciax/lunaria): A prototype project used to experiment with structure and ideas ahead of rewriting [lattebot.p](https://github.com/staciax/lattebot.p).
 - [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the Marblex API used in Ni no Kuni: Cross Worlds.
 - [discord-linked-roles](https://github.com/staciax/discord-linked-roles): A basic wrapper for the Discord Linked Roles OAuth2 API.
-- [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to Django projects.
-- [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning FastAPI and ORM basics.
+- [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to [Django](https://github.com/django/django) projects.
+- [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a custom-built routing system inspired by [Next.js App Router](https://nextjs.org/docs/app).
+- [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning [FastAPI](https://github.com/fastapi/fastapi) and [SQLModel](https://github.com/fastapi/sqlmodel).
 - [stellar-api](https://github.com/staciax/stellar-api): An evolved API project building on earlier work, with a more structured approach.
-- [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant’s in-game API.
+- [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant's in-game API.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
