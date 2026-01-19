@@ -43,7 +43,7 @@ Glad you stopped by.
 - [lattebot-v2e](https://github.com/staciax/lattebot-v2e): A transitional stage of the v2 series during the [discord.py discontinuation](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1), moving to [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py).
 - [lattebot.p](https://github.com/staciax/lattebot.p): A complete rewrite of lattebot, rebuilt from the ground up during the most motivated phase of the project.
 - [lunaria](https://github.com/staciax/lunaria): A prototype project used to experiment with structure and ideas ahead of rewriting [lattebot.p](https://github.com/staciax/lattebot.p).
-- [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the Marblex API used in Ni no Kuni: Cross Worlds.
+- [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the [Marblex](https://www.marblex.io) API used in [Ni no Kuni: Cross Worlds](https://ninokuni.netmarble.com). (unofficial, for learning purposes)
 - [discord-linked-roles](https://github.com/staciax/discord-linked-roles): A basic wrapper for the Discord Linked Roles OAuth2 API.
 - [django-app-router](https://github.com/staciax/django-app-router): A library that brings Next.js-like app routing to [Django](https://github.com/django/django) projects.
 - [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a [custom-built routing system](https://github.com/staciax/aquarius-project/blob/master/docs/GUIDE.md) inspired by [Next.js App Router](https://nextjs.org/docs/app).
