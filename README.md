@@ -29,7 +29,6 @@ Glad you stopped by.
 - [elysia-background](https://github.com/staciax/elysia-background): A background task processing plugin for [ElysiaJS](https://elysiajs.com).
 - [vscode-streamer-mode-x](https://github.com/staciax/vscode-streamer-mode-x): A Visual Studio Code extension that protects sensitive files.
 - [valorant-discord-bot](https://github.com/staciax/valorant-discord-bot): A Discord bot that provides Valorant stats using the Valorant API. (archived)
-- [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some experimentation on the frontend.
 
 ## From My Studies
 - [Design Patterns](https://github.com/staciax/cs-design-patterns): Collected examples and small projects from learning design patterns.
@@ -49,6 +48,7 @@ Glad you stopped by.
 - [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a [custom-built routing system](https://github.com/staciax/aquarius-project/blob/master/docs/GUIDE.md) inspired by [Next.js App Router](https://nextjs.org/docs/app).
 - [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning [FastAPI](https://github.com/fastapi/fastapi) and [SQLModel](https://github.com/fastapi/sqlmodel).
 - [stellar-api](https://github.com/staciax/stellar-api): An evolved [FastAPI](https://github.com/fastapi/fastapi) project focused on backend structure, with some frontend experimentation.
+- [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some experimentation on the frontend.
 - [riko](https://github.com/Arismonx/riko): An experimental AI chatbot built with [ElysiaJS](https://elysiajs.com), developed collaboratively while exploring persona-based prompts. (with [Arismonx](https://github.com/Arismonx))
 - [valorantx](https://github.com/staciax/valorantx-private): A long-term experimental Python wrapper for Valorant's in-game API.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
