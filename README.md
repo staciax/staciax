@@ -39,8 +39,8 @@ Glad you stopped by.
 - [lattebot-v1](https://github.com/staciax/lattebot-v1): The very first version of lattebot, built with [discord.py](https://github.com/Rapptz/discord.py) as one of my earliest programming projects.
 - [lattebot-v2a](https://github.com/staciax/lattebot-v2a): An early rewrite of lattebot, experimenting with better structure and cleaner command handling.
 - [lattebot-v2](https://github.com/staciax/lattebot-v2): A more refined iteration of lattebot, focusing on a more organized codebase.
-- [lattebot-v2e](https://github.com/staciax/lattebot-v2e): A transitional stage of the v2 series during the period when [discord.py was discontinued](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1), moving to [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py).
-- [lattebot.p](https://github.com/staciax/lattebot.p): A complete rewrite of lattebot, rebuilt from the ground up during the most motivated and enjoyable phase of the project.
+- [lattebot-v2e](https://github.com/staciax/lattebot-v2e): A transitional stage of the v2 series during the [discord.py discontinuation](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1), moving to [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py).
+- [lattebot.p](https://github.com/staciax/lattebot.p): A complete rewrite of lattebot, rebuilt from the ground up during the most motivated phase of the project.
 - [lunaria](https://github.com/staciax/lunaria): A prototype project used to experiment with structure and ideas ahead of rewriting [lattebot.p](https://github.com/staciax/lattebot.p).
 - [marblex.py](https://github.com/staciax/marblex.py): A Python wrapper for the Marblex API used in Ni no Kuni: Cross Worlds.
 - [discord-linked-roles](https://github.com/staciax/discord-linked-roles): A basic wrapper for the Discord Linked Roles OAuth2 API.
