@@ -49,6 +49,6 @@ Glad you stopped by.
 - [aquarius-project](https://github.com/staciax/aquarius-project): A [Django-based](https://github.com/django/django) bookstore e-commerce project with a [custom-built routing system](https://github.com/staciax/aquarius-project/blob/master/docs/GUIDE.md) inspired by [Next.js App Router](https://nextjs.org/docs/app).
 - [virgo-api](https://github.com/staciax/virgo-api): A small API project built while learning [FastAPI](https://github.com/fastapi/fastapi) and [SQLModel](https://github.com/fastapi/sqlmodel).
 - [stellar-api](https://github.com/staciax/stellar-api): An evolved [FastAPI](https://github.com/fastapi/fastapi) project focused on backend structure, with some frontend experimentation.
-- [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some experimentation on the frontend.
+- [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some frontend experimentation.
 - [riko](https://github.com/Arismonx/riko): An experimental AI chatbot built with [ElysiaJS](https://elysiajs.com), developed collaboratively while exploring persona-based prompts. (with [Arismonx](https://github.com/Arismonx))
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
