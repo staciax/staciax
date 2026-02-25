@@ -12,7 +12,7 @@ After long sprints, unwinding usually means a good anime—or  ~~a quick game~~ 
 
 Glad you stopped by.
 
-### What I Usually Use
+<!-- ### What I Usually Use
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -21,7 +21,7 @@ Glad you stopped by.
       alt="Skills"
     />
   </a>
-</p> 
+</p>  -->
 
 ## Stuff I've Made
 - [lattebot](https://github.com/staciax/lattebot): A cute little Discord bot that grew alongside my coding skills.
