@@ -1,7 +1,8 @@
-# STACiA
+# STAC//A
+
 *Just building small things and learning along the way.*
 
-I'm STACiA—an ~~introverted~~ computer science student from Bangkok, Thailand.
+I'm STACIA—an ~~introverted~~ computer science student from Bangkok, Thailand.
 
 I usually keep to myself—when in doubt, I reset by coding or listening to podcasts and music, often spending my time building small utility libraries for personal use, and working on things I'm genuinely excited about.
 
