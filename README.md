@@ -1,4 +1,4 @@
-# STAC//A
+# STAC/A
 
 *Just building small things and learning along the way.*
 
