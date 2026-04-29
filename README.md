@@ -54,3 +54,5 @@ Glad you stopped by.
 - [elma](https://github.com/staciax/elma): A learning project focused mainly on exploring [ElysiaJS](https://elysiajs.com), with some frontend experimentation.
 - [riko](https://github.com/Arismonx/riko): An experimental AI chatbot built with [ElysiaJS](https://elysiajs.com), developed collaboratively while exploring persona-based prompts. (with [Arismonx](https://github.com/Arismonx))
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
+- [lilac](https://github.com/staciax/lilac-v0): Swift CLI for dotfile management.
+- [vivian](https://github.com/staciax/vivian-v0): Swift-based data validation library.
