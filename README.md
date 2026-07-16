@@ -33,9 +33,10 @@ Glad you stopped by.
 - [stacia.me](https://github.com/staciax/stacia.me): My personal website, blog, built with [Next.js](https://nextjs.org)
 
 ## From My Studies
-- [Design Patterns](https://github.com/staciax/cs-design-patterns): Collected examples and small projects from learning design patterns.
-- [Object-Oriented Programming](https://github.com/staciax/cs-object-oriented-programming): Examples and exercises from learning object-oriented programming concepts.
-- [Data Science](https://github.com/staciax/cs-data-science): Exercises and explorations from learning data science fundamentals.
+- [Design Patterns](https://github.com/staciax/cs-design-patterns): Discovering the patterns behind good software.
+- [Object-Oriented Programming](https://github.com/staciax/cs-object-oriented-programming): Learning to think in objects.
+- [Data Science](https://github.com/staciax/cs-data-science): Making sense of a world shaped by data.
+- [Swift-Programming](https://github.com/staciax/cs-swift-programming): A snapshot of learning Swift, one assignment at a time.
 
 ## Random Things I Made
 - [lattebot-v1](https://github.com/staciax/lattebot-v1): The very first version of [lattebot](https://github.com/staciax/lattebot), built with [discord.py](https://github.com/Rapptz/discord.py) as one of my earliest programming projects.
