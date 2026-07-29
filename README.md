@@ -57,3 +57,4 @@ Glad you stopped by.
 - [Elizabeth](https://github.com/staciax/Elizabeth): An API testing tool written in Swift and SwiftUI.
 - [lilac](https://github.com/staciax/lilac-v0): Swift CLI for dotfile management.
 - [vivian](https://github.com/staciax/vivian-v0): Swift-based data validation library.
+- [lily](https://github.com/staciax/lily): Swift composable logging library.
